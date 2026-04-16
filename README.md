@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=500&color=6AD5E8&center=true&vCenter=true&width=750&lines=¡Hola!+Soy+Paul+Moreno+👋;AI+Engineer+%7C+Data+Scientist+%7C+ML+Engineer;Agentic+AI+%7C+LLMs+%7C+Computer+Vision;RAG+%7C+Knowledge+Graphs+%7C+Vector+DBs;Big+Data+%7C+MLOps+%7C+Cloud+AWS;Transformando+datos+en+impacto+real+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=500&color=6AD5E8&center=true&vCenter=true&width=750&lines=%C2%A1Hola!+Soy+Paul+Moreno+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist+%7C+ML+Engineer;Agentic+AI+%7C+LLMs+%7C+Computer+Vision;RAG+%7C+Knowledge+Graphs+%7C+Vector+DBs;Big+Data+%7C+MLOps+%7C+Cloud+AWS;Transformando+datos+en+impacto+real+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
