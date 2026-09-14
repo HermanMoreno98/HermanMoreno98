@@ -22,19 +22,14 @@ Data Scientist en **BCP** · MSc. Data Science (UCSP) · Lima, Perú 🇵🇪
 ## ⚡ En resumen
 
 ```yaml
-rol:          Data Scientist · AI Engineer
-foco:         IA agéntica, LLMs, RAG, NLP, Computer Vision
-ahora:        Document Intelligence e IA cognitiva para crédito en BCP
-formación:    Economista → MSc. Data Science
-idiomas:      Español, Inglés
+rol:            Data Scientist · AI Engineer
+foco:           IA agéntica, LLMs, RAG, NLP, Computer Vision
+ahora:          Document Intelligence e IA cognitiva para crédito en BCP
+experiencia:    5+ años programando soluciones de datos e IA
+formación:      Economista → MSc. Data Science
+publicaciones:  2 (técnicas y académicas)
+idiomas:        Español, Inglés
 ```
-
-<table>
-  <tr>
-    <td align="center" width="50%"><h3>5+</h3><sub>años programando soluciones de datos e IA</sub></td>
-    <td align="center" width="50%"><h3>2</h3><sub>publicaciones técnicas y académicas</sub></td>
-  </tr>
-</table>
 
 ---
 
